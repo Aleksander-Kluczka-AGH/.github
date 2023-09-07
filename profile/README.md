@@ -1,7 +1,7 @@
-# Aleksander Kluczka - AGH UST Projects and Labs
+# Aleksander Kluczka - AGH UST WFiIS Projects and Labs
 
 This organization gathers all repositories with code written during many courses I've taken when
-studying at AGH UST.
+studying at [AGH UST](https://www.agh.edu.pl/en) [WFiIS](https://www.fis.agh.edu.pl/en/).
 
 | []()             |                                              |
 | ---------------- | -------------------------------------------- |
@@ -85,7 +85,7 @@ studying at AGH UST.
 |                                          |                                                                  |                                                                                                                                                                        |                                                                                         |
 | **Semester 8**                           |                                                                  |                                                                                                                                                                        |                                                                                         |
 | Advanced internet techniques             | Lost                                                             | [ait_project_2023](https://github.com/Aleksander-Kluczka-AGH/ait_project_2023)                                                                                         | [PDF](https://sylabusy.agh.edu.pl/en/document/d594492b-1db7-4725-9301-5a59e19e6182.pdf) |
-| Artificial neural networks               | [ann_2023](https://github.com/Aleksander-Kluczka-AGH/ann_2023)   | [ann_2023](https://github.com/Aleksander-Kluczka-AGH/ann_2023)                                                                                                         | [PDF](https://sylabusy.agh.edu.pl/en/document/51e19739-c5d3-4d2b-9375-bf45c1a5c553.pdf) |
+| Artificial neural networks               | [ann_2023](https://github.com/Aleksander-Kluczka-AGH/ann_2023)   | [ann_project_2023](https://github.com/Aleksander-Kluczka-AGH/ann_project_2023)                                                                                         | [PDF](https://sylabusy.agh.edu.pl/en/document/51e19739-c5d3-4d2b-9375-bf45c1a5c553.pdf) |
 | Contemporary physics in computer science | N/A                                                              | N/A                                                                                                                                                                    | [PDF](https://sylabusy.agh.edu.pl/en/document/122384cb-c2f8-43ab-9c01-5df24f9eae42.pdf) |
 | Image analysis and processing            | [iap_2023](https://github.com/Aleksander-Kluczka-AGH/iap_2023)   | [iap_project_2023](https://github.com/Aleksander-Kluczka-AGH/iap_project_2023)                                                                                         | [PDF](https://sylabusy.agh.edu.pl/en/document/121f7ca4-c535-45f7-b2be-94d8b19cf6a9.pdf) |
 | Machine learning                         | [ml_2023](https://github.com/Aleksander-Kluczka-AGH/ml_2023)     | [ml_project_2023](https://github.com/Aleksander-Kluczka-AGH/ml_project_2023)                                                                                           | [PDF](https://sylabusy.agh.edu.pl/en/document/7465bb70-cbe1-4b17-8bf8-cbd30203d21b.pdf) |

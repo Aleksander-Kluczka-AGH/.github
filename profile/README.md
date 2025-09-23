@@ -9,7 +9,7 @@ studying at [AGH UST](https://www.agh.edu.pl/en) [WFiIS](https://www.fis.agh.edu
 | **Faculty**      | Physics and Applied Computer Science (WFiIS) |
 | **Field**        | Applied Computer Science                     |
 | **First cycle**  | 2019 - 2023                                  |
-| **Second cycle** | 2023 - ???                                   |
+| **Second cycle** | 2023 - 2025                                  |
 
 ## List of courses
 
@@ -95,7 +95,7 @@ studying at [AGH UST](https://www.agh.edu.pl/en) [WFiIS](https://www.fis.agh.edu
 | **Semester 9**                                      |                                                                                          |                                                                                                                                                                                            |                                                                                         |
 | Allegro engineering of distributed systems          | N/A                                                                                      | [agh_wfiis_aeds_project](https://github.com/Aleksander-Kluczka-AGH/agh_wfiis_aeds_project.git)                                                                                             | [PDF](https://sylabusy.agh.edu.pl/en/document/ecccae71-fa76-4908-9941-72d3d23fd5fc.pdf) |
 | Cryptography                                        | [agh_wfiis_cr_labs](https://github.com/Aleksander-Kluczka-AGH/agh_wfiis_cr_labs.git)     | N/A                                                                                                                                                                                        | [PDF](https://sylabusy.agh.edu.pl/en/document/dae8c50f-1a14-4822-8bc0-8860468dcb0f.pdf) |
-| Data mining                                         | N/A                                                                                      | N/A                                                                                                                                                                                        | [PDF](https://sylabusy.agh.edu.pl/en/document/7e365762-a78b-4246-af37-debf7e7ecef4.pdf) |
+| Data mining                                         | Not uploaded                                                                             | N/A                                                                                                                                                                                        | [PDF](https://sylabusy.agh.edu.pl/en/document/7e365762-a78b-4246-af37-debf7e7ecef4.pdf) |
 | Data sciense based on Ericsson corporate experience | N/A                                                                                      | [agh_wfiis_dsboece_project](https://github.com/Aleksander-Kluczka-AGH/agh_wfiis_dsboece_project.git)                                                                                       | [PDF](https://sylabusy.agh.edu.pl/en/document/d841f2c7-d3a9-40fc-bd2a-124d05a2e3f0.pdf) |
 | English B2+ course                                  | N/A                                                                                      | N/A                                                                                                                                                                                        | [PDF](https://sylabusy.agh.edu.pl/en/document/a9dc2101-2acc-448e-ba60-0cc467680da8.pdf) |
 | Programming IBM quantum computers                   | [agh_wfiis_piqc_labs](https://github.com/Aleksander-Kluczka-AGH/agh_wfiis_piqc.git)      | N/A                                                                                                                                                                                        | [PDF](https://sylabusy.agh.edu.pl/en/document/fe37ccc1-d909-4aaa-90d4-e14a87690d47.pdf) |
@@ -105,30 +105,7 @@ studying at [AGH UST](https://www.agh.edu.pl/en) [WFiIS](https://www.fis.agh.edu
 |                                                     |                                                                                          |                                                                                                                                                                                            |                                                                                         |
 | **Semester 10**                                     |                                                                                          |                                                                                                                                                                                            |                                                                                         |
 | Diploma seminar                                     | N/A                                                                                      | N/A                                                                                                                                                                                        | [PDF](https://sylabusy.agh.edu.pl/en/document/2f6465c4-9a9a-4fbe-be75-b685573726b4.pdf) |
-| Diploma thesis                                      | N/A                                                                                      | Not uploaded                                                                                                                                                                               | [PDF](https://sylabusy.agh.edu.pl/en/document/327afd0d-c649-4758-97f9-3907fd156066.pdf) |
+| Diploma thesis                                      | N/A                                                                                      | [master_thesis](https://github.com/Aleksander-Kluczka-AGH/master-thesis), [chat-on-solana](https://github.com/vis4rd/chat-on-solana)                                                       | [PDF](https://sylabusy.agh.edu.pl/en/document/327afd0d-c649-4758-97f9-3907fd156066.pdf) |
 | Language Go                                         | [agh_wfiis_golang_labs](https://github.com/Aleksander-Kluczka-AGH/agh_wfiis_golang_labs) | [agh_wfiis_golang_project](https://github.com/Aleksander-Kluczka-AGH/agh_wfiis_golang_project)                                                                                             | [PDF](https://sylabusy.agh.edu.pl/en/document/ecdc1bd5-50cb-42ab-8a79-def6df968ecb.pdf) |
 | Main trends of popular music                        | N/A                                                                                      | N/A                                                                                                                                                                                        | [PDF](https://sylabusy.agh.edu.pl/en/document/b0e33c9c-8801-4142-aa51-1d727d48a41e.pdf) |
 | Practical architectural patterns                    | N/A                                                                                      | [agh_wfiis_pap_project](https://github.com/Aleksander-Kluczka-AGH/agh_wfiis_pap_project)                                                                                                   | [PDF](https://sylabusy.agh.edu.pl/en/document/ed27bdb9-184a-4d8f-88e7-fc996473700d.pdf) |
-
-## Caveat emptor
-
-Many projects or code from labs are not in a polished state or do not work at all. Use these
-sources at your own risk.
-
-Linked syllabus pages in PDF might stop working after some time, depending on when AGH decides to
-archive or shutdown these courses.
-
-## Missing sources
-
-Some sources are missing due to removed access to certain university resources or because of human
-error (I forgot to do a backup).
-
-Other sources are vastly incomplete, so either I decided that there is no point in uploading them or
-did not even bother to consider it. Maybe in the future they will be added here, who knows.
-
-## Why list `N/A`-only courses?
-
-I added them to put into perspective of how many semesters were purely offline on-paper and which
-started introducing more practical, computerized courses.
-
-It is also a nice documentation of the path to the title of engineer (or master of engineering).
